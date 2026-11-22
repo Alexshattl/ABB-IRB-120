@@ -1,5 +1,5 @@
 # ABB-IRB-120
-# crear el URDF (ayudándote de Xacro) de un robot ABB IRB 120 como los que tenemos en el laboratorio de robótica en el Máster. 
+# Crear el URDF (ayudándote de Xacro) de un robot ABB IRB 120 como los que tenemos en el laboratorio de robótica en el Máster. 
 <?xml version="1.0" encoding="utf-8"?>
 <robot name="abb_irb120">
   <link name="base_link">
